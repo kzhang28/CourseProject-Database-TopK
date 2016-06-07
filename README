@@ -1,16 +1,1 @@
-Readme
 
-TA algorithm code has been finished. Please check if it is correct.
-I run it with a simple dataset: TestDataSet1
-
-How to run it:
-The diver main method is in run.java.
-1, configure arguments in run.java
-		K
-		weight
-		fileName
-2, run it !
-3, see result
-
-Note: 1, dataset should be like TestDataSet1, no blank line exists!. The first column is ID
-	  2, weight's dimension should be equal to the number of attributes.
